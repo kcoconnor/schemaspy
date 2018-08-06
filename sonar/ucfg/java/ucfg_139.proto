@@ -1,0 +1,29 @@
+
+Zorg.schemaspy.SchemaAnalyzer#analyze(Lorg/schemaspy/Config;)Lorg/schemaspy/model/Database;
+__unknown_file (config"2"1*®
+1`
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.javah# h(7¬
+`
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.javaj j(<%0Dorg.schemaspy.cli.CommandLineArguments#getSchema()Ljava/lang/String;x
+`
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.javaj j(=schema__id"
+
+%0±
+`
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.javak k(M%1 org.schemaspy.SchemaAnalyzer#analyze(Ljava/lang/String;Lorg/schemaspy/Config;Ljava/io/File;Lorg/schemaspy/model/ProgressListener;)Lorg/schemaspy/model/Database;"
+
+
+schema"
+
+
+config"
+"""
+"""j
+`
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.javak k(N
+""*Ñ
+2`
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.javaf f("j
+`
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.javaf f(I
+""
